@@ -1,13 +1,19 @@
 {
-    "eyewear": [
-      {
-        "id": 1,
-        "name": "Demo 1",
-        "image_url": "https://drive.google.com/uc?export=view?&id=1AumYIQZycmYbvvY-4Ct6Vj3rzab_bZfh",
-        "image_hov": "https://drive.google.com/uc?export=view?&id=1AumYIQZycmYbvvY-4Ct6Vj3rzab_bZfh",
-        "size": "Regular",
-        "amount": "2000",
-      }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  
+}
