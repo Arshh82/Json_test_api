@@ -1,0 +1,13 @@
+{
+    "eyewear": [
+      {
+        "id": 1,
+        "name": "Demo 1",
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "image_hov": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "size": "Regular",
+        "amount": "2000",
+      }
+    ]
+  }
+  
