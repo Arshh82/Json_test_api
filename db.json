@@ -563,6 +563,13 @@
       "pwd": "arshil@1234"
     }
   ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "arshilbaig",
+      "pwd": "arshilbaig@1234"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
